@@ -1,40 +1,64 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Shivam Prajapati</h1>
-<h3 align="center"> Full Stack Developer </h3>
+<h3 align="center">🚀 Full Stack Developer | 🌱 Lifelong Learner | 💡 Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shivam152240&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam152240" /> </p>
-
-- 🌱 I’m currently learning **MERN Stack, React & Node.js**  
-- 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/Shivam152240?tab=repositories)  
-- 💬 Ask me about **JavaScript, React, Node.js**  
-- 📫 How to reach me **shivamkumar152240@gmail.com**  
-- ⚡ Fun fact: *I love building projects & solving problems*  
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/Shivam152240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+<!-- Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Shivam152240&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam152240" /> 
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left"> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-</p>
+## 👨‍💻 About Me  
+- 🎓 BCA Student at **Invertis University**  
+- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 💻 Passionate about **Web Development & Backend Systems**  
+- 🚀 Exploring **Open Source Contributions**  
+- 📫 Contact me at **shivamkumar152240@gmail.com**  
 
 ---
 
-### 📊 GitHub Stats:
+## 🌐 Connect with Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam152240&show_icons=true&theme=radical" alt="stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam152240&theme=radical" alt="streak" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam152240&layout=compact&theme=radical" alt="langs" />  
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shivam152240" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:shivamkumar152240@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam152240&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam152240&theme=tokyonight" alt="streak" height="160"/>
+</p>
+
+---
+
+## 🚀 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam152240&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+## 🔥 Contribution Graph  
+[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam152240&theme=tokyo-night)](https://github.com/Shivam152240)
+
+---
+
+⭐️ From [Shivam152240](https://github.com/Shivam152240)
 
