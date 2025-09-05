@@ -56,7 +56,8 @@
 ---
 
 ## 🔥 Contribution Graph  
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam152240&theme=tokyo-night)](https://github.com/Shivam152240)
+[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivam152240&theme=github-light)](https://github.com/Shivam152240)
+
 
 ---
 
